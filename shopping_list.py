@@ -10,4 +10,6 @@ items.append(add1)
 
 items.append(add2)
 
-print(f"you have {len(items)} items: {items}")
+print(f"you have {len(items)} items:")
+for item in items:
+    print(item)
