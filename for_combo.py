@@ -4,3 +4,4 @@ for n in nums:
         print("big")
     else:
         print("small")
+print("Done")
